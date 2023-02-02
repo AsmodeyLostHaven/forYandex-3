@@ -1,5 +1,5 @@
 # forYandex-3
-<h1 align="center">Добрый день, я<a href="https://daniilshat.ru/" target="_blank">Влад</a> 
+<h1 align="center">Добрый день, я <a href="https://daniilshat.ru/" target="_blank">Влад</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я студент колледжа, программист любитель и веб дизайнер из Москвы.</h3>
 <h3 align="center">Данный репозиторий был создан для того, чтобы немного представить компании Яндекс свои умения.</h3>
